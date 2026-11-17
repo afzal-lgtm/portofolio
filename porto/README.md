@@ -22,5 +22,5 @@ Website ini tampil rapi di ponsel, tablet, dan laptop.
 
 ## Tautan
 
--Website: menyusul setelah *deploy* ke Vercel
+-Website: https://portofolio-muhammad-afzal.vercel.app/
 -Dibuat oleh: Muhammad Afzal, SMk 1 Jenangan Ponorogo
